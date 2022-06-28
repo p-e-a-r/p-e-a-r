@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React, JS, Next.js, Bootstrap, pretty much everything.**
 
-- 🔭 I’m currently working on Ecommerce page. [Preview](https://imgupload.pl/zdjecie/desktop-preview.21tBV)
+- 🔭 I’m currently working on Ecommerce page. [Preview](https://imgupload.pl/zdjecie/desktop-preview.21tBV) And JS course certificate.
 
 - 📫 How to reach me **gruszewski.mateusz@gmail.com**
 
