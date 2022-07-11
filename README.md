@@ -4,7 +4,11 @@
 
 - 🌱 I’m currently learning **React, JS, Next.js, Bootstrap, pretty much everything.**
 
-- 🔭 I’m currently working on Ecommerce page in React. [Preview](https://imgupload.pl/zdjecie/desktop-preview.21tBV)
+- 🔭 I’m currently working on Ecommerce page in React.
+[Landing Page Preview](https://imgupload.pl/zdjecie/desktop-preview.21tBV), 
+[Functionality Preview](https://imgupload.pl/zdjecie/2a7t5), 
+[Mobile Preview](https://imgupload.pl/zdjecie/2auDJ), 
+[Mobile Functionality Preview](https://imgupload.pl/zdjecie/mobile-design-basket-filled.2aXsO)
 
 - 📫 How to reach me **gruszewski.mateusz@gmail.com**
 
