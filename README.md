@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
 <h3 align="center">I like Frontend.</h3>
 
-- 🌱 I’m currently learning **JS and React. I want to expand into Typescript and other tools such as Redux and Deno**
+- 🌱 I’m currently learning **JS and React. I want to expand into Typescript and other tools such as Redux and Deno.**
 
 - 🔭 I’m currently working on smaller JS projects for practice.
 - 🔭 I'm also working on Ecommerce page in React.
