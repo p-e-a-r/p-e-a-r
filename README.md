@@ -4,11 +4,10 @@
 
 - 🌱 I’m currently learning **JS and React. I want to expand into Typescript and other tools such as Redux and Deno**
 
-- 🔭 I’m currently working on Ecommerce page in React.
+- 🔭 I’m currently working on smaller JS projects for practice.
+- I'm also working on Ecommerce page in React.
 [Landing Page Preview](https://imgupload.pl/zdjecie/desktop-preview.21tBV), 
-[Functionality Preview](https://imgupload.pl/zdjecie/2a7t5), 
-[Mobile Preview](https://imgupload.pl/zdjecie/2auDJ), 
-[Mobile Functionality Preview](https://imgupload.pl/zdjecie/mobile-design-basket-filled.2aXsO)
+
 
 - 📫 How to reach me **gruszewski.mateusz@gmail.com**
 
